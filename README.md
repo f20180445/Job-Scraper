@@ -11,8 +11,8 @@ time, requests, json, pandas, collections
 The script is created on Python 3.8.2
 On running the script in Python, two inputs would be asked - 1. Designation and 2. Number of Pages to Scrape
 
-Example-
-Enter Designation: software developer
+Example-<br>
+Enter Designation: software developer<br>
 Number of Pages to scrape: 5
 
 TWO Excel Files would be created in the same folder as the script-
